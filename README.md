@@ -14,7 +14,7 @@ npm run serve
 ```
 npm run build
 ```
-# cielo tried to put text here again
+# accounting is the art of
 ### Lints and fixes files
 ```
 npm run lint
